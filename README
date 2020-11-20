@@ -1,0 +1,7 @@
+description 
+	make ahk script to exe 
+	fake compiler script
+	AHKC.exe <ahk filename > <icon filename>
+
+install :
+	run setup.ahk as administrator privillage
